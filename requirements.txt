@@ -1,0 +1,13 @@
+torch
+transformers>=5.10
+datasets
+accelerate
+zstandard
+numpy
+scipy
+spacy
+tqdm
+matplotlib
+
+# spaCy English model, needed for the caveman-ratio metric:
+#   python -m spacy download en_core_web_sm
