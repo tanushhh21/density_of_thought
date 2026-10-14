@@ -1,4 +1,6 @@
-# reasoning_model
+# density_of_thought
+
+Implementation of Paper - The Density of Thought: Predicting and Steering Reasoning in Large Language Models 
 
 Inference-time steering of chain-of-thought reasoning in small language models,
 using per-step information density as both a correctness signal and a control knob.
